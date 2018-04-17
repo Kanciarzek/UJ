@@ -1,2 +1,2 @@
 # UJ
-Some my solutions of programming tasks from Jagiellonian Univerity.
+Niektóre z moich rozwiązań zadań programistycznych i projektów z Uniwersytetu Jagiellońskiego.
